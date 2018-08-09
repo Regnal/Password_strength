@@ -3,7 +3,7 @@
 The program tests the password strength. As a result, it returns the text and percentage of the password.
 
 # Files
-* pass_strong.prg	
+* pass_strength.prg	
 
 # Examples
 ```ruby
