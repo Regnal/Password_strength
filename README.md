@@ -7,6 +7,6 @@ The program tests the password strength. As a result, it returns the text and pe
 
 # Examples
 ```ruby
-  DO pass_strench.prg WITH "password",.T.
-  DO pass_strench.prg WITH "password"
+  DO pass_strength.prg WITH "password",.T.
+  DO pass_strength.prg WITH "password"
 ```
